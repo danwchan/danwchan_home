@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Daniel Chan: searching for counterworlds</title>
+
+		<meta name="description" content="A web address and identity for Daniel W Chan">
+		<meta name="author" content="Danny Chan" >
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="images/favicon.ico">
+
+		<!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Raleway:700,400,300' rel='stylesheet' type='text/css'>
+
+		<!-- Bootstrap core CSS -->
+		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+		<!-- Font Awesome CSS -->
+		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+		<!-- Plugins -->
+		<link href="css/animations.css" rel="stylesheet">
+
+		<!-- Worth_It core CSS file -->
+		<link href="css/style.css" rel="stylesheet">
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<!--to detect adblocker... did you know it blocks font-awesome?-->
+		<script type="text/javascript" src="/js/showads.js"></script>
+
+	</head>
+
+	<body class="no-trans">
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+
+		<!-- header start -->
+		<!-- ================ -->
+		<header class="header fixed clearfix navbar navbar-fixed-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-9">
+						<!-- header-left start -->
+						<!-- ================ -->
+						<div class="header-left clearfix">
+
+							<!-- name-and-slogan -->
+							<div class="site-name-and-slogan smooth-scroll">
+								<div class="site-name"><a href="#top">Daniel Chan</a></div>
+								<div class="site-slogan"><b>Citizen</b> interested in systems change <br> <b>Microbiologist</b> interested in cell-cell communication</div>
+							</div>
+
+						</div>
+						<!-- header-left end -->
+
+					</div>
+					<div class="col-sm-3">
+
+						<!-- header-right start -->
+						<!-- ================ -->
+						<div class="header-right clearfix">
+
+							<!-- main-navigation start -->
+							<!-- ================ -->
+							<div class="main-navigation animated">
+
+							<!-- logo links -->
+							<div class="logo smooth-scroll">
+								<a href="161019_megaCV_01.pdf"><img id="logo" src="images/colony_logo1.png" alt="link1"></a>
+							</div>
+
+							<div class="logo smooth-scroll">
+								<a href="161019_megaCV_01.pdf"><img id="logo" src="images/colony_logo2.png" alt="link2"></a>
+							</div>
+
+							</div>
+							<!-- main-navigation end -->
+
+						</div>
+						<!-- header-right end -->
+
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header end -->
+
+		<!-- banner start -->
+		<!-- ================ -->
+		<div id="top" class="banner">
+			<div class="banner-image"></div>
+			<div class="banner-caption">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
+							<h2 class="text-center"><b>Aspiring to create constructive contributions to society</b></h2>
+							<p class="lead text center">There are many forms of work. If you think we should work together, please do not hesitate to <a href="#contact">contact</a> me.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- banner end -->
+
+		<!-- section start -->
+		<!-- ================ -->
+		<div class="main main-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12" id="content">
+						<article class="col-md-5" id="text-intro">
+							<h1>Curiosity grows</h1>
+							<p class="lead">I am struck by the wonder of the natural world. I have no doubt if we are able to continue our existence on this planet it will continue to provide a rich source of wonder to augment our own fascinating complexity. This is the entry page to my <a href="https://teach.mozilla.org/teach-like-mozilla/web-literacy/">web</a> presence. A digital portal to getting to know me in a professional and personal sense.</p>
+						</article>
+						<article class="col-md-5" id="text-middle">
+							<h1>Open Science</h1>
+							<p class="lead">I want to work in a society where personal curiosity can be satisfied by the pursuit of scientific progress. I believe that the modern scientific enterprise can adapt the tech industry's <a href="http://www.reuters.com/search/news?blob=invest+%22open+source%22+%24">capacity</a> to <a href="http://deloitte.wsj.com/cio/2013/09/24/the-new-meaning-of-open-source-talent/?mod=wsjcio_hp_deloitte">fos</a><a href="https://newsroom.accenture.com/subjects/research-surveys/investment-in-open-source-software-set-to-rise-accenture-survey-finds.htm">ter</a> upstream development on open source code into a rigorous system of <a href="http://www.budapestopenaccessinitiative.org/read">open</a> and <a href="http://freedomdefined.org/Definition">free</a> science. This system has benefit for both humans as creatures of creativity and for society as requiring rapid solutions to pressing <a href="https://www.youtube.com/watch?v=OWXoRSIxyIU">is</a><a href="https://www.youtube.com/watch?v=L3kjvqxktKQ">su</a><a href="https://www.youtube.com/watch?v=nDgIVseTkuE">es</a>, but only if we come to terms with ourselves in context with others forever engaging with compassionate sharing in all domains.
+						</article>
+						<article class="col-md-5" id="text-end">
+							<h1>Careful work towards the future</h1>
+							<p class="lead">I have been <a href="http://www.robot-hugs.com/privilege/">privileged</a> to receive training within an individualistic academic community. From that experience I gained a deep understanding of the technical and human challenges in "good" science. In a <a href="http://www.thebookoflife.org/category/capitalism/">consumption</a> based world, we are challenged in work to create a life for ourselves while improving the lives of others. Given this challenge, I aspire to uphold the following:</p>
+								<blockquote><p>"I’m a pessimist because of intelligence, but an optimist because of will."</p></blockquote>
+								<footer>Antonio Gramsci <em>Letter from Prison, Dec 19 1929</em></footer>
+						</article>
+					</div>
+				</div>
+<div class="row">
+<div class="col-xs-12">
+				<!-- Parallax foreground -->
+				<div class="col-xs-12" id="parallax-bg3">
+					<img id="bg-colony-1" src="images/colony16.svg"/>
+					<img id="bg-colony-2" src="images/colony1.svg"/>
+					<img id="bg-colony-3" src="images/colony6.svg"/>
+					<img id="bg-colony-4" src="images/colony18.svg"/>
+					<img id="bg-colony-5" src="images/colony4.svg"/>
+					<img id="bg-colony-6" src="images/colony5.svg"/>
+					<img id="bg-colony-7" src="images/colony2.svg"/>
+					<img id="bg-colony-8" src="images/colony3.svg"/>
+					<img id="bg-colony-9" src="images/colony10.svg"/>
+					<img id="bg-colony-10" src="images/colony7.svg"/>
+					<img id="bg-colony-11" src="images/colony11.svg"/>
+				</div>
+				<!-- Parallax  midground clouds -->
+				<div class="col-xs-12" id="parallax-bg2">
+					<img id="bg-bacteria-1" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-2" src="images/cocci11.svg"/>
+					<img id="bg-bacteria-3" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-4" src="images/rods1.svg"/>
+					<img id="bg-bacteria-5" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-6" src="images/rods1.svg"/>
+					<img id="bg-bacteria-7" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-8" src="images/cocci11.svg"/>
+					<img id="bg-bacteria-9" src="images/rods1.svg"/>
+					<img id="bg-bacteria-10" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-11" src="images/cocci11.svg"/>
+					<img id="bg-bacteria-13" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-16" src="images/vibrio3.svg"/>
+					<img id="bg-bacteria-17" src="images/cocci11.svg"/>
+					<img id="bg-bacteria-18" src="images/vibrio2.svg"/>
+					<img id="bg-bacteria-19" src="images/vibrio2.svg"/>
+					<img id="bg-bacteria-20" src="images/cocci1.svg"/>
+					<img id="bg-bacteria-21" src="images/cocci1.svg"/>
+				</div>
+	
+				<!-- Parallax  background clouds -->
+				<div class="col-xs-12" id="parallax-bg1">
+					<img id="bg1-1" src="images/colony13.svg"/>
+					<img id="bg1-2" src="images/cocci2.svg"/>
+					<img id="bg1-3" src="images/colony14.svg"/>
+					<img id="bg1-4" src="images/colony17.svg"/>
+					<img id="bg1-5" src="images/cocci2.svg"/>
+					<img id="bg1-6" src="images/rods1.svg"/>
+					<img id="bg1-7" src="images/rods1.svg"/>
+					<img id="bg1-8" src="images/colony8.svg"/>
+					<img id="bg1-9" src="images/colony19.svg"/>
+					<img id="bg1-10" src="images/colony15.svg"/>
+				</div>
+</div>
+</div>
+
+			</div>
+		</div>
+		<!-- section end -->
+
+		<!-- .footer start -->
+		<!-- ================ -->
+		<div class="footer section">
+			<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<h1 class="title text-center" id="contact">Contact</h1>
+						</div>
+					</div>
+					<div class="space"></div>
+					<div class="row">
+						<div class="col-sm-12">
+							<p>Perhaps you want to know more about me and my work, or perhaps you have a suggestion for improvement. Please share your contact information with me.</p>
+							<p>Likely you've come here via my twitter, email signature or business card. In the case of the latter, you have my phone number and might be in the vicinity to meet up in person. I look forward to continuing conversations in person, although it is not always logistically simple/possible. Take care and continue working hard on your personal projects!</p>
+								<ul class="list-icons">
+									<li><i class="fa fa-map-marker pr-10"></i> South Loop, Chicago </li>
+									<li><i class="fa fa-phone pr-10"></i> +1 (312)532-5036</li>
+									<li><i class="fa fa-envelope-o pr-10"></i> danwchan@gmail.com</li>
+								</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-12">
+							<ul class="social-links">
+								<li class="twitter"><a target="twitter" href="https://twitter.com/id_EATER"><i class="fa fa-twitter"></i></a></li>
+								<li class="facebook"><a target="facebook" href="If you find me feel free to add me, I do not post too much content but I do browse my feed"><i class="fa fa-facebook"></i></a></li>
+								<li class="skype"><a target="skype" href="pssst... I'm dan.w.chan"><i class="fa fa-skype"></i></a></li>
+								<li class="github"><a target="github" href="https://github.com/danwchan"><i class="fa fa-github"></i></a></li>
+								<li class="ORCID"><a target="ORCID" href="https://orcid.org/0000-0002-8082-2316"><i class="fa fa-qrcode" alt="ORCID"></i></a></li>
+<!--comment out unused social links
+								<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+								<li class="youtube"><a target="_blank" href="http://www.youtube.com"><i class="fa fa-youtube"></i></a></li>
+								<li class="flickr"><a target="_blank" href="http://www.flickr.com"><i class="fa fa-flickr"></i></a></li>
+								<li class="pinterest"><a target="_blank" href="http://www.pinterest.com"><i class="fa fa-pinterest"></i></a></li>
+								<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+-->
+							</ul>
+						</div>
+					</div>
+			</div>
+		</div>
+		<!-- .footer end -->
+
+		<!-- .subfooter start -->
+		<!-- ================ -->
+		<div id="copyright" class="subfooter">
+			<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+						<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Except where otherwise noted this website and its contents by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Daniel W Chan</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="danwchan.ca" rel="dct:source">danwchan.ca</a>
+						. Entry site template (Worth_It) is a derivative of the <a rel="template" href="https://github.com/Html-Coder/Worthy">Worthy</a> template by <a target="derived_author" href="http://htmlcoder.me">HtmlCoder</a>, used under <a rel="derived_license" href="https://creativecommons.org/licenses/by/3.0/"> CC BY</a>.</p>
+						</div>
+					</div>
+				</div>
+		</div>
+		<!-- .subfooter end -->
+
+		<!-- JavaScript files placed at the end of the document so the pages load faster
+		================================================== -->
+		<!-- Jquery and Bootstap core js files -->
+		<script type="text/javascript" src="plugins/jquery.min.js"></script>
+		<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+		<!-- Modernizr javascript -->
+		<script type="text/javascript" src="plugins/modernizr.js"></script>
+
+		<!-- Isotope javascript -->
+		<script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script>
+
+		<!-- Backstretch javascript -->
+		<script type="text/javascript" src="plugins/jquery.backstretch.min.js"></script>
+
+		<!-- Appear javascript -->
+		<script type="text/javascript" src="plugins/jquery.appear.js"></script>
+
+		<!-- Initialization of Plugins -->
+		<script type="text/javascript" src="js/template.js"></script>
+
+		<!-- workaround adblock -->
+		<script type="text/javascript" src="js/ifAB_fallback.js"></script>
+
+		<!-- Parallax javascript -->
+		<script type="text/javascript" src="js/parallax.js"></script>
+
+	</body>
+</html>

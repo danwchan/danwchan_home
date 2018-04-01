@@ -1,0 +1,154 @@
+/* 
+
+Theme Name: Worth_It
+Author: Daniel W Chan
+License: Creative Commons Attribution 4.0 License BY-SA (http://creativecommons.org/licenses/by-sa/4.0/)
+File Description: PARALLAX SCROLLING EXPERIMENT
+
+Worth_It is a deriviative of the Worthy template by HtmlCoder (http://htmlcoder.me) used under CC-BY (https://creativecommons.org/licenses/by/3.0/). The Parallax scrolling section is based on the PARALLAX SCROLLING EXPERIMENT (http://jonathannicol.com/blog/2011/08/06/build-a-parallax-scrolling-website-interface-with-jquery-and-css/) by Jonathan Nicol (f6design.com)
+*****************************************************************/
+
+
+/* Parallax
+*****************************************************************/
+
+/* content */
+#content {
+	z-index: 4;
+	position: relative;
+	max-width: 940px;
+	padding: 0 10px;
+	margin: 0 auto;
+	line-height: 1.7;
+	}
+	#content article {
+		width: 300px;
+		}
+		#manned-flight ,
+		#frameless-parachute,
+		#english-channel,
+		#about {
+			padding-top: 105px;
+			}
+		#manned-flight {
+			position: relative;
+			top: 0px;
+			}
+		#frameless-parachute {
+			position: relative;
+			top: 1090px;
+			}
+		#english-channel {
+			position: relative;
+			top: 2180px;
+			}
+			#content h1 {
+				margin: 0 0 25px 0;
+				font-size: 60px;
+				font-family: Georgia, serif;
+				font-weight: normal;
+				line-height: 65px;
+				}
+		#about {
+			position: relative;
+			top: 3270px;
+			}
+/* foreground (testing) */
+#parallax-bg4 {
+	z-index: 3;
+	background: url("../img/ground.png") no-repeat ;
+	}
+
+/* foreground (ballons/landscape) */
+#parallax-bg3 {
+	z-index: 3;
+	position: relative;
+	left: 50%; /* align left edge with center of viewport */
+	top: 0;
+	width: 940px;
+	margin-left: -470px; /* move left by half element's width */
+	}
+	/* balloon */
+	#bg3-1 {
+		position: relative;
+		top: -111px;
+		left: 355px;
+		}
+	#bg3-2 {
+		position: relative;
+		top: 812px;
+		left: 321px;
+		}
+	#bg3-3 {
+		position: relative;
+		top: 1628px;
+		left: 403px;
+		}
+	#bg3-4 {
+		position: relative;
+		top: 2700px;
+		left: -85px;
+		}
+/* midground (clouds) */
+#parallax-bg2 {
+	z-index: 2;
+	position: relative;
+	left: 50%; /* align left edge with center of viewport */
+	top: 0;
+	width: 1200px;
+	margin-left: -600px; /* move left by half element's width */
+	}
+	#bg2-1 {
+		position: relative;
+		top: 162px;
+		left: 200px;
+		}
+	#bg2-2 {
+		position: relative;
+		top: 300px;
+		left: 1150px;
+		}
+	#bg2-3 {
+		position: relative;
+		top: 543px;
+		left: -35px;
+		}
+	#bg2-4 {
+		position: relative;
+		top: 1180px;
+		left: 250px;
+		}
+	#bg2-5 {
+		position: relative;
+		top: 900px;
+		left: 890px;
+		}
+/* background (clouds) */
+#parallax-bg1 {
+	z-index: 1;
+	position: relative;
+	left: 50%; /* align left edge with center of viewport */
+	top: 0;
+	width: 1200px;
+	margin-left: -600px; /* move left by half element's width */
+	}
+	#bg1-1 {
+		position: relative;
+		top: 85px;
+		left: -270px;
+		}
+	#bg1-2 {
+		position: relative;
+		top: 440px;
+		left: 795px;
+		}
+	#bg1-3 {
+		position: relative;
+		top: 900px;
+		left: -220px;
+		}
+	#bg1-4 {
+		position: relative;
+		top: 1020px;
+		left: 450px;
+		}
