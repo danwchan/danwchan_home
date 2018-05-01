@@ -87,11 +87,11 @@
 
 							<!-- logo links -->
 							<div class="logo smooth-scroll">
-								<a href="161019_megaCV_01.pdf"><img id="logo" src="images/colony_logo1.png" alt="link1"></a>
+								<a href="180429_cv2.pdf"><img id="logo" src="images/colony_logo1.png" alt="my CV"></a>
 							</div>
 
 							<div class="logo smooth-scroll">
-								<a href="161019_megaCV_01.pdf"><img id="logo" src="images/colony_logo2.png" alt="link2"></a>
+								<a href="http://mythos-acts.ca/"><img id="logo" src="images/colony_logo2.png" alt="RPG anyone?"></a>
 							</div>
 
 							</div>
@@ -115,7 +115,7 @@
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
 							<h2 class="text-center"><b>Aspiring to create constructive contributions to society</b></h2>
-							<p class="lead text center">This is the entry page to my <a href="https://teach.mozilla.org/teach-like-mozilla/web-literacy/">web</a> presence. A digital portal to getting to know me in a <a href="161019_megaCV_01.pdf">professional</a> and <a href="#contact">personal sense</a>.</p>
+							<p class="lead text center">This is the entry page to my <a href="https://teach.mozilla.org/teach-like-mozilla/web-literacy/">web</a> presence. A digital portal to getting to know me in a <a href="161019_megaCV_01.pdf">professional</a> and <a href="#contact">personal</a> sense.</p>
 						</div>
 					</div>
 				</div>
@@ -132,11 +132,11 @@
 					<div class="col-xs-12" id="content">
 						<article class="col-md-5" id="text-intro">
 							<h1>Curiosity lives</h1>
-							<p class="lead">From the glimpse I have been afforded of the natural world's inner workings, I am awed by the intricate interactions which appear to effortlessly straddle every scale of the universe. In the darkness of our collective ignorance, the nascent light of our curiosity is a rich source of determination and joy. I have no doubt that if we are able to continue our existence on this planet we will have our curiosity to thank.</p>
+							<p class="lead">From the glimpse I have been afforded of the natural world's inner workings, I am awed by the intricate interactions which appear to effortlessly straddle orders of magnitude in scale. In the darkness of our collective ignorance, the light of our curiosity is a rich source of determination and joy. I have no doubt that if we are able to continue our existence on this planet we will have our curiosity to thank.</p>
 						</article>
 						<article class="col-md-5" id="text-middle">
 							<h1>Open Science</h1>
-							<p class="lead">I have been <a href="http://www.robot-hugs.com/privilege/">privileged</a> to receive training within the academic community through which I gained a deep understanding of the technical and human challenges in "good" science. I believe that we can reorganize the modern scientific enterprise to mirror the upstream <a href="http://deloitte.wsj.com/cio/2013/09/24/the-new-meaning-of-open-source-talent/?mod=wsjcio_hp_deloitte">develop</a><a href="https://newsroom.accenture.com/subjects/research-surveys/investment-in-open-source-software-set-to-rise-accenture-survey-finds.htm">ment</a> of open source code, as seen in the tech <a href="http://www.reuters.com/search/news?blob=invest+%22open+source%22+%24">industry</a>, into a rigorous system of <a href="http://www.budapestopenaccessinitiative.org/read">open</a> and <a href="http://freedomdefined.org/Definition">free</a> science. This system would afford individuals creative freedom and support diverse contributions to a scholarly commons. It would encourage the expansion of our knowledge and provide a scaffold from which our society can draw upon for rapid solutions to pressing <a href="https://www.youtube.com/watch?v=OWXoRSIxyIU">is</a><a href="https://www.youtube.com/watch?v=L3kjvqxktKQ">su</a><a href="https://www.youtube.com/watch?v=nDgIVseTkuE">es</a>.</p>
+							<p class="lead">I was <a href="http://www.robot-hugs.com/privilege/">privileged</a> to receive training within the academic community through which I gained a deep understanding of the technical and human challenges in "good" science. I believe that we can reorganize the modern scientific enterprise to mirror the upstream <a href="http://deloitte.wsj.com/cio/2013/09/24/the-new-meaning-of-open-source-talent/?mod=wsjcio_hp_deloitte">develop</a><a href="https://newsroom.accenture.com/subjects/research-surveys/investment-in-open-source-software-set-to-rise-accenture-survey-finds.htm">ment</a> of open source code, as seen in the tech <a href="http://www.reuters.com/search/news?blob=invest+%22open+source%22+%24">industry</a>, into a rigorous system of <a href="http://www.budapestopenaccessinitiative.org/read">open</a> and <a href="http://freedomdefined.org/Definition">free</a> science. This system would afford individuals creative freedom and support diverse contributions to a scholarly commons. It would encourage the expansion of our knowledge and provide a scaffold from which our society can draw upon for rapid solutions to pressing <a href="https://www.youtube.com/watch?v=OWXoRSIxyIU">is</a><a href="https://www.youtube.com/watch?v=L3kjvqxktKQ">su</a><a href="https://www.youtube.com/watch?v=nDgIVseTkuE">es</a>.</p>
 						</article>
 						<article class="col-md-5" id="text-end">
 							<h1>Conscientious action</h1>
@@ -231,7 +231,7 @@
 								<li class="mastodon"><a target="mastodon" href="https://scholar.social/@danwchan"><i class="fa fa-mastodon"></i></a></li>
 								<li class="github"><a target="github" href="https://github.com/danwchan"><i class="fa fa-github"></i></a></li>
 								<li class="twitter"><a target="twitter" href="https://twitter.com/id_EATER"><i class="fa fa-twitter"></i></a></li>
-								<li class="linkedin"><a target="linkedin" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
+								<li class="linkedin"><a target="linkedin" href="https://www.linkedin.com/in/danwchan"><i class="fa fa-linkedin"></i></a></li>
 								<li class="ORCID"><a target="ORCID" href="https://orcid.org/0000-0002-8082-2316"><i class="ai ai-orcid" alt="ORCID"></i></a></li>
 <!--comment out unused social links
 								<li class="facebook"><a target="facebook" href="If you find me feel free to add me, I do not post too much content but I do browse my feed"><i class="fa fa-facebook"></i></a></li>
